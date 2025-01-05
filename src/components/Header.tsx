@@ -1,10 +1,12 @@
+import baselogo from '../assets/baselogo.jpeg';
+
 export function Header() {
   return (
     <header className="bg-white shadow-sm">
       <div className="max-w-7xl mx-auto px-4 py-6 sm:px-6 lg:px-8">
         <div className="flex flex-col items-center gap-4">
           <img 
-            src="src/assets/baselogo.jpeg"
+            src={baselogo}
             alt="Base Logo" 
             className="h-12"
           />

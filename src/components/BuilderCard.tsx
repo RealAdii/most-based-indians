@@ -1,3 +1,5 @@
+import logoBlack from '../assets/logo-black.png';
+
 interface BuilderCardProps {
   name: string;
   twitter: string;
@@ -23,7 +25,7 @@ export function BuilderCard({ name, twitter }: BuilderCardProps) {
           className="text-black hover:text-gray-700 transition-colors"
         >
           <img 
-            src="src/assets/logo-black.png"// Replace with your image filename
+            src={logoBlack}// Replace with your image filename
             alt="X Logo"
             className="w-5 h-5"
           />
