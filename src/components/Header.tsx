@@ -4,7 +4,7 @@ export function Header() {
       <div className="max-w-7xl mx-auto px-4 py-6 sm:px-6 lg:px-8">
         <div className="flex flex-col items-center gap-4">
           <img 
-            src="baselogo.jpeg"
+            src="src/assets/baselogo.jpeg"
             alt="Base Logo" 
             className="h-12"
           />

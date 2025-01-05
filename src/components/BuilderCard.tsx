@@ -23,7 +23,7 @@ export function BuilderCard({ name, twitter }: BuilderCardProps) {
           className="text-black hover:text-gray-700 transition-colors"
         >
           <img 
-            src="logo-black.png"// Replace with your image filename
+            src="src/assets/logo-black.png"// Replace with your image filename
             alt="X Logo"
             className="w-5 h-5"
           />
