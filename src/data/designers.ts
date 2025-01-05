@@ -100,5 +100,80 @@ export const designers: Builder[] = [
     name: 'Prag',
     twitter: 'pragdesigns',
     category: 'designer'
+  },
+  {
+    name: 'Aarushe Reddy',
+    twitter: 'aarushe_reddy',
+    category: 'designer'
+  },
+  {
+    name: 'Naved',
+    twitter: 'Navedux',
+    category: 'designer'
+  },
+  {
+    name: 'Big Fat Designer',
+    twitter: 'notbigfat',
+    category: 'designer'
+  },
+  {
+    name: 'Rohan',
+    twitter: 'rohanxdesign',
+    category: 'designer'
+  },
+  {
+    name: 'Anushka Verma',
+    twitter: 'AnushkaVer99296',
+    category: 'designer'
+  },
+  {
+    name: 'Available Tha',
+    twitter: 'availabletha',
+    category: 'designer'
+  },
+  {
+    name: 'PXP Brownie',
+    twitter: 'pxpBrownie',
+    category: 'designer'
+  },
+  {
+    name: 'Spider Dev',
+    twitter: 'theSpiderDev',
+    category: 'designer'
+  },
+  {
+    name: 'Dwivedi',
+    twitter: '0xdwivedi',
+    category: 'designer'
+  },
+  {
+    name: 'Ignavia',
+    twitter: 'ignaviaa_01',
+    category: 'designer'
+  },
+  {
+    name: 'Rahul HC',
+    twitter: 'hckmstrrahul',
+    category: 'designer'
+  },
+  {
+    name: 'Paresh SVG',
+    twitter: 'Pareshsvg',
+    category: 'designer'
+  },
+  {
+    name: 'Aditya',
+    twitter: 'adi2381',
+    category: 'designer'
+  },
+  {
+    name: 'DeeKay Motion',
+    twitter: 'deekaymotion',
+    category: 'designer'
+  },
+  {
+    name: 'Darshan Tech',
+    twitter: 'darshann_tech',
+    category: 'designer'
   }
 ];

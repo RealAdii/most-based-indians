@@ -7,7 +7,7 @@ export const developers: Builder[] = [
     category: 'developer'
   },
   {
-    name: 'Krypto',
+    name: 'Srivatsan',
     twitter: '0xkryptocodes',
     category: 'developer'
   },
@@ -99,6 +99,76 @@ export const developers: Builder[] = [
   {
     name: 'Harpal Jadeja',
     twitter: 'HarpalJadeja11',
+    category: 'developer'
+  },
+  {
+    name: 'Ravi Bakhai',
+    twitter: 'ravibakhai',
+    category: 'developer'
+  },
+  {
+    name: 'Krishna Nemani',
+    twitter: 'KrishnaTNemani',
+    category: 'developer'
+  },
+  {
+    name: 'Decentral Dude',
+    twitter: 'DecentralDude',
+    category: 'developer'
+  },
+  {
+    name: 'Tanishq Parkar',
+    twitter: 'TanishqParkar',
+    category: 'developer'
+  },
+  {
+    name: 'Dayitva Goel',
+    twitter: 'dayitva_goel',
+    category: 'developer'
+  },
+  {
+    name: 'Nitesh Singh',
+    twitter: 'TheNiteshSingh',
+    category: 'developer'
+  },
+  {
+    name: 'That Baka Toast',
+    twitter: 'thatbakatoast',
+    category: 'developer'
+  },
+  {
+    name: 'Priyansh',
+    twitter: 'Priyansh_31Dec',
+    category: 'developer'
+  },
+  {
+    name: 'Harsh Web3',
+    twitter: 'HarshEth_Web3',
+    category: 'developer'
+  },
+  {
+    name: 'Shreyas',
+    twitter: 'shreyasbg28',
+    category: 'developer'
+  },
+  {
+    name: 'Nishant Joshi',
+    twitter: 'nishantjosh',
+    category: 'developer'
+  },
+  {
+    name: 'Manoj Gorle',
+    twitter: 'ManojKGorle',
+    category: 'developer'
+  },
+  {
+    name: 'Abhay',
+    twitter: 'abhay',
+    category: 'developer'
+  },
+  {
+    name: 'Lokesh Joshi',
+    twitter: 'lokeshjoshi053',
     category: 'developer'
   }
 ];
